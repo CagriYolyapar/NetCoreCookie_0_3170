@@ -1,2 +1,6 @@
-1 => Cookie
+﻿1 => Cookie
+
+Cookie, client side(browser tarafında) veri sakladıgımız hafıza alanıdır... Kullanıcı sistem kaynagını kullanır dolayısıyla server'i yormaz...
 2 => Session
+
+Session, Server taraflı ve her kullanıcı oturumu icin ayrı tutulan bir hafıza alanıdır...
